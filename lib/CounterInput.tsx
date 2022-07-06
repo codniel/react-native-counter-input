@@ -54,6 +54,7 @@ export default class CounterInput extends React.Component<
 
   handleOnIncreasePress = () => {
     const { onChange, onIncreasePress } = this.props;
+    if (this.state.counter - 1 > 999) return
     this.setState({ isPressed: true, counter: this.state.counter + 1 }, () => {
       onIncreasePress && onIncreasePress(this.state.counter);
       onChange && onChange(this.state.counter);
@@ -62,6 +63,7 @@ export default class CounterInput extends React.Component<
 
   handleOnDecreasePress = () => {
     const { onChange, onDecreasePress } = this.props;
+    if (this.state.counter - 1 < 0) return
     this.setState({ isPressed: false, counter: this.state.counter - 1 }, () => {
       onDecreasePress && onDecreasePress(this.state.counter);
       onChange && onChange(this.state.counter);
@@ -86,8 +88,8 @@ export default class CounterInput extends React.Component<
       ImageComponent = Image,
       increaseButtonBackgroundColor = "#0b349a",
     } = this.props;
-    const { isPressed } = this.state;
-
+    const { isPressed, counter } = this.state;
+    const isLimit = counter === 999
     return (
       <RNBounceable
         style={_increaseButtonStyle(isPressed, increaseButtonBackgroundColor)}
@@ -96,7 +98,7 @@ export default class CounterInput extends React.Component<
         onPress={this.handleOnIncreasePress}
       >
         <ImageComponent
-          style={styles.buttonImageStyle}
+          style={[styles.buttonImageStyle, { opacity: isLimit ? .5 : 1 }]}
           source={isPressed ? plusIconWhite : plusIconBlack}
         />
       </RNBounceable>
@@ -108,7 +110,8 @@ export default class CounterInput extends React.Component<
       ImageComponent = Image,
       decreaseButtonBackgroundColor = "#0b349a",
     } = this.props;
-    const { isPressed } = this.state;
+    const { isPressed, counter } = this.state;
+    const isLimit = counter === 0
 
     return (
       <RNBounceable
@@ -118,7 +121,7 @@ export default class CounterInput extends React.Component<
         onPress={this.handleOnDecreasePress}
       >
         <ImageComponent
-          style={styles.buttonImageStyle}
+          style={[styles.buttonImageStyle, { opacity: isLimit ? .5 : 1 }]}
           source={isPressed ? minusIconBlack : minusIconWhite}
         />
       </RNBounceable>
