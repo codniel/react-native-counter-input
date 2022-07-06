@@ -1,0 +1,330 @@
+{
+  "program": {
+    "fileInfos": {
+      "../../node_modules/typescript/lib/lib.es5.d.ts": {
+        "version": "70ae6416528e68c2ee7b62892200d2ca631759943d4429f8b779b947ff1e124d",
+        "signature": "70ae6416528e68c2ee7b62892200d2ca631759943d4429f8b779b947ff1e124d",
+        "affectsGlobalScope": true
+      },
+      "../../node_modules/typescript/lib/lib.es2015.d.ts": {
+        "version": "dc47c4fa66b9b9890cf076304de2a9c5201e94b740cffdf09f87296d877d71f6",
+        "signature": "dc47c4fa66b9b9890cf076304de2a9c5201e94b740cffdf09f87296d877d71f6",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/typescript/lib/lib.es2015.core.d.ts": {
+        "version": "63e0cc12d0f77394094bd19e84464f9840af0071e5b9358ced30511efef1d8d2",
+        "signature": "63e0cc12d0f77394094bd19e84464f9840af0071e5b9358ced30511efef1d8d2",
+        "affectsGlobalScope": true
+      },
+      "../../node_modules/typescript/lib/lib.es2015.collection.d.ts": {
+        "version": "43fb1d932e4966a39a41b464a12a81899d9ae5f2c829063f5571b6b87e6d2f9c",
+        "signature": "43fb1d932e4966a39a41b464a12a81899d9ae5f2c829063f5571b6b87e6d2f9c",
+        "affectsGlobalScope": true
+      },
+      "../../node_modules/typescript/lib/lib.es2015.generator.d.ts": {
+        "version": "cdccba9a388c2ee3fd6ad4018c640a471a6c060e96f1232062223063b0a5ac6a",
+        "signature": "cdccba9a388c2ee3fd6ad4018c640a471a6c060e96f1232062223063b0a5ac6a",
+        "affectsGlobalScope": true
+      },
+      "../../node_modules/typescript/lib/lib.es2015.iterable.d.ts": {
+        "version": "42f5e41e5893da663dbf0394268f54f1da4b43dc0ddd2ea4bf471fe5361d6faf",
+        "signature": "42f5e41e5893da663dbf0394268f54f1da4b43dc0ddd2ea4bf471fe5361d6faf",
+        "affectsGlobalScope": true
+      },
+      "../../node_modules/typescript/lib/lib.es2015.promise.d.ts": {
+        "version": "0b7a905675e6cb4211c128f0a3aa47d414b275180a299a9aad5d3ec298abbfc4",
+        "signature": "0b7a905675e6cb4211c128f0a3aa47d414b275180a299a9aad5d3ec298abbfc4",
+        "affectsGlobalScope": true
+      },
+      "../../node_modules/typescript/lib/lib.es2015.proxy.d.ts": {
+        "version": "dfff68b3c34338f6b307a25d4566de15eed7973b0dc5d69f9fde2bcac1c25315",
+        "signature": "dfff68b3c34338f6b307a25d4566de15eed7973b0dc5d69f9fde2bcac1c25315",
+        "affectsGlobalScope": true
+      },
+      "../../node_modules/typescript/lib/lib.es2015.reflect.d.ts": {
+        "version": "cb609802a8698aa28b9c56331d4b53f590ca3c1c3a255350304ae3d06017779d",
+        "signature": "cb609802a8698aa28b9c56331d4b53f590ca3c1c3a255350304ae3d06017779d",
+        "affectsGlobalScope": true
+      },
+      "../../node_modules/typescript/lib/lib.es2015.symbol.d.ts": {
+        "version": "3013574108c36fd3aaca79764002b3717da09725a36a6fc02eac386593110f93",
+        "signature": "3013574108c36fd3aaca79764002b3717da09725a36a6fc02eac386593110f93",
+        "affectsGlobalScope": true
+      },
+      "../../node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": {
+        "version": "4670208dd7da9d6c774ab1b75c1527a810388c7989c4905de6aaea8561cb9dce",
+        "signature": "4670208dd7da9d6c774ab1b75c1527a810388c7989c4905de6aaea8561cb9dce",
+        "affectsGlobalScope": true
+      },
+      "../../node_modules/@types/react/global.d.ts": {
+        "version": "ecf78e637f710f340ec08d5d92b3f31b134a46a4fcf2e758690d8c46ce62cba6",
+        "signature": "ecf78e637f710f340ec08d5d92b3f31b134a46a4fcf2e758690d8c46ce62cba6",
+        "affectsGlobalScope": true
+      },
+      "../../node_modules/csstype/index.d.ts": {
+        "version": "ba7617784f6b9aeac5e20c5eea869bbc3ef31b905f59c796b0fd401dae17c111",
+        "signature": "ba7617784f6b9aeac5e20c5eea869bbc3ef31b905f59c796b0fd401dae17c111",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@types/prop-types/index.d.ts": {
+        "version": "6a386ff939f180ae8ef064699d8b7b6e62bc2731a62d7fbf5e02589383838dea",
+        "signature": "6a386ff939f180ae8ef064699d8b7b6e62bc2731a62d7fbf5e02589383838dea",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@types/scheduler/tracing.d.ts": {
+        "version": "f5a8b384f182b3851cec3596ccc96cb7464f8d3469f48c74bf2befb782a19de5",
+        "signature": "f5a8b384f182b3851cec3596ccc96cb7464f8d3469f48c74bf2befb782a19de5",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@types/react/index.d.ts": {
+        "version": "f49995cda2e5fd0c42dfdf2f11f1f1ce670d27f821df16206853210e96f817df",
+        "signature": "f49995cda2e5fd0c42dfdf2f11f1f1ce670d27f821df16206853210e96f817df",
+        "affectsGlobalScope": true
+      },
+      "../../node_modules/@types/react-native/globals.d.ts": {
+        "version": "57d31b969955d6f7102e10ed9cb84196bf7fa46fa0ce3c6e5c351f4572a70847",
+        "signature": "57d31b969955d6f7102e10ed9cb84196bf7fa46fa0ce3c6e5c351f4572a70847",
+        "affectsGlobalScope": true
+      },
+      "../../node_modules/@types/react-native/legacy-properties.d.ts": {
+        "version": "0e3a729fd8d4c71378181e0bca5d12d47e57bc999cfffa7b834e402d625a8969",
+        "signature": "0e3a729fd8d4c71378181e0bca5d12d47e57bc999cfffa7b834e402d625a8969",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@types/react-native/batchedbridge.d.ts": {
+        "version": "496293b62091a5bfb97dac7a0055f3e73dfc7b8d8c220000ecf68635c0bef790",
+        "signature": "496293b62091a5bfb97dac7a0055f3e73dfc7b8d8c220000ecf68635c0bef790",
+        "affectsGlobalScope": true
+      },
+      "../../node_modules/@types/react-native/devtools.d.ts": {
+        "version": "715ee74e86e7388d2923cd6377fafcf3f86bea534d5cb4c827a1603383fabdb3",
+        "signature": "715ee74e86e7388d2923cd6377fafcf3f86bea534d5cb4c827a1603383fabdb3",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@types/react-native/launchscreen.d.ts": {
+        "version": "234b97ac9af46707f2315ff395a9b340d37b7dbc8290d91f5d6bd97189d220f3",
+        "signature": "234b97ac9af46707f2315ff395a9b340d37b7dbc8290d91f5d6bd97189d220f3",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@types/react-native/index.d.ts": {
+        "version": "0b78a076c0370873b9b84c8a9d7d984347ce40184d85fdf447d009406c073241",
+        "signature": "0b78a076c0370873b9b84c8a9d7d984347ce40184d85fdf447d009406c073241",
+        "affectsGlobalScope": true
+      },
+      "./counterinput.d.ts": {
+        "version": "56e62ec9fec30a9d219f7f4d5857cc6dadca0cc4d5d6947a8ff8cac4fe56544c",
+        "signature": "56e62ec9fec30a9d219f7f4d5857cc6dadca0cc4d5d6947a8ff8cac4fe56544c",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/tslib/tslib.d.ts": {
+        "version": "4576b4e61049f5ffd7c9e935cf88832e089265bdb15ffc35077310042cbbbeea",
+        "signature": "4576b4e61049f5ffd7c9e935cf88832e089265bdb15ffc35077310042cbbbeea",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@freakycoder/react-native-bounceable/build/dist/rnbounceable.d.ts": {
+        "version": "2841249137dbc1d017ce38ab5677fc48a80186d5bbfd1299f5c51504e46a8b52",
+        "signature": "2841249137dbc1d017ce38ab5677fc48a80186d5bbfd1299f5c51504e46a8b52",
+        "affectsGlobalScope": false
+      },
+      "./counterinput.style.d.ts": {
+        "version": "9baadda51a7ef85784e54c33fedd83fcd04d280bd3848d2f09ac5c38f10301a0",
+        "signature": "9baadda51a7ef85784e54c33fedd83fcd04d280bd3848d2f09ac5c38f10301a0",
+        "affectsGlobalScope": false
+      },
+      "./counterinput.js": {
+        "version": "179a2579b9468a78d79e1e336047fc3c867557fb38556b1bfd5112d729e25298",
+        "signature": "6ced66c41b7cec0a932b7e110b34d59de70f24a391319cec6eaebcceac5d73b0",
+        "affectsGlobalScope": true
+      },
+      "./counterinput.style.js": {
+        "version": "7bb924207f808e3be507bf16cc5940ac421c8de432a4ce0350ab2a31c487c938",
+        "signature": "52e1ed041127dd9de5ea47d51bb071e24a76406d499989e6946d9e1ee85027fd",
+        "affectsGlobalScope": true
+      },
+      "../../lib/counterinput.style.ts": {
+        "version": "c6bf642f4c086eb0c64406335698bf095fc41e3f09f2a871a9dadd11f8624abb",
+        "signature": "9baadda51a7ef85784e54c33fedd83fcd04d280bd3848d2f09ac5c38f10301a0",
+        "affectsGlobalScope": false
+      },
+      "../../lib/counterinput.tsx": {
+        "version": "b0d2c57cbc7f3db2641c02d3704b12201222664f188982bb4f8f26ea9f6e46da",
+        "signature": "56e62ec9fec30a9d219f7f4d5857cc6dadca0cc4d5d6947a8ff8cac4fe56544c",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@types/eslint-visitor-keys/index.d.ts": {
+        "version": "725d9be2fd48440256f4deb00649adffdbc5ecd282b09e89d4e200663792c34c",
+        "signature": "725d9be2fd48440256f4deb00649adffdbc5ecd282b09e89d4e200663792c34c",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@types/json-schema/index.d.ts": {
+        "version": "f3e604694b624fa3f83f6684185452992088f5efb2cf136b62474aa106d6f1b6",
+        "signature": "f3e604694b624fa3f83f6684185452992088f5efb2cf136b62474aa106d6f1b6",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@types/parse-json/index.d.ts": {
+        "version": "2b8264b2fefd7367e0f20e2c04eed5d3038831fe00f5efbc110ff0131aab899b",
+        "signature": "2b8264b2fefd7367e0f20e2c04eed5d3038831fe00f5efbc110ff0131aab899b",
+        "affectsGlobalScope": false
+      },
+      "../../node_modules/@types/scheduler/index.d.ts": {
+        "version": "74b0245c42990ed8a849df955db3f4362c81b13f799ebc981b7bec2d5b414a57",
+        "signature": "74b0245c42990ed8a849df955db3f4362c81b13f799ebc981b7bec2d5b414a57",
+        "affectsGlobalScope": false
+      }
+    },
+    "options": {
+      "target": 99,
+      "module": 1,
+      "lib": [
+        "lib.es2015.d.ts"
+      ],
+      "allowJs": true,
+      "jsx": 3,
+      "noImplicitAny": false,
+      "incremental": true,
+      "isolatedModules": true,
+      "strict": true,
+      "moduleResolution": 2,
+      "skipLibCheck": true,
+      "baseUrl": "../..",
+      "outDir": "./",
+      "noEmitHelpers": true,
+      "importHelpers": true,
+      "experimentalDecorators": true,
+      "allowSyntheticDefaultImports": true,
+      "esModuleInterop": true,
+      "declaration": true,
+      "sourceMap": true,
+      "configFilePath": "../../tsconfig.json"
+    },
+    "referencedMap": {
+      "./counterinput.d.ts": [
+        "../../node_modules/@types/react-native/index.d.ts",
+        "../../node_modules/@types/react/index.d.ts"
+      ],
+      "./counterinput.js": [
+        "../../node_modules/@freakycoder/react-native-bounceable/build/dist/rnbounceable.d.ts",
+        "../../node_modules/@types/react-native/index.d.ts",
+        "../../node_modules/@types/react/index.d.ts",
+        "../../node_modules/tslib/tslib.d.ts",
+        "./counterinput.style.d.ts"
+      ],
+      "./counterinput.style.d.ts": [
+        "../../node_modules/@types/react-native/index.d.ts"
+      ],
+      "./counterinput.style.js": [
+        "../../node_modules/@types/react-native/index.d.ts"
+      ],
+      "../../lib/counterinput.style.ts": [
+        "../../node_modules/@types/react-native/index.d.ts"
+      ],
+      "../../lib/counterinput.tsx": [
+        "../../lib/counterinput.style.ts",
+        "../../node_modules/@freakycoder/react-native-bounceable/build/dist/rnbounceable.d.ts",
+        "../../node_modules/@types/react-native/index.d.ts",
+        "../../node_modules/@types/react/index.d.ts"
+      ],
+      "../../node_modules/@freakycoder/react-native-bounceable/build/dist/rnbounceable.d.ts": [
+        "../../node_modules/@types/react-native/index.d.ts",
+        "../../node_modules/@types/react/index.d.ts"
+      ],
+      "../../node_modules/@types/react-native/devtools.d.ts": [
+        "../../node_modules/@types/react-native/devtools.d.ts"
+      ],
+      "../../node_modules/@types/react-native/index.d.ts": [
+        "../../node_modules/@types/react-native/batchedbridge.d.ts",
+        "../../node_modules/@types/react-native/devtools.d.ts",
+        "../../node_modules/@types/react-native/globals.d.ts",
+        "../../node_modules/@types/react-native/launchscreen.d.ts",
+        "../../node_modules/@types/react-native/legacy-properties.d.ts",
+        "../../node_modules/@types/react/index.d.ts"
+      ],
+      "../../node_modules/@types/react-native/legacy-properties.d.ts": [
+        "../../node_modules/@types/react-native/index.d.ts"
+      ],
+      "../../node_modules/@types/react/index.d.ts": [
+        "../../node_modules/@types/prop-types/index.d.ts",
+        "../../node_modules/@types/react/global.d.ts",
+        "../../node_modules/@types/scheduler/tracing.d.ts",
+        "../../node_modules/csstype/index.d.ts"
+      ]
+    },
+    "exportedModulesMap": {
+      "./counterinput.d.ts": [
+        "../../node_modules/@types/react-native/index.d.ts",
+        "../../node_modules/@types/react/index.d.ts"
+      ],
+      "./counterinput.style.d.ts": [
+        "../../node_modules/@types/react-native/index.d.ts"
+      ],
+      "../../lib/counterinput.style.ts": [
+        "../../node_modules/@types/react-native/index.d.ts"
+      ],
+      "../../lib/counterinput.tsx": [
+        "../../node_modules/@types/react-native/index.d.ts",
+        "../../node_modules/@types/react/index.d.ts"
+      ],
+      "../../node_modules/@freakycoder/react-native-bounceable/build/dist/rnbounceable.d.ts": [
+        "../../node_modules/@types/react-native/index.d.ts",
+        "../../node_modules/@types/react/index.d.ts"
+      ],
+      "../../node_modules/@types/react-native/devtools.d.ts": [
+        "../../node_modules/@types/react-native/devtools.d.ts"
+      ],
+      "../../node_modules/@types/react-native/index.d.ts": [
+        "../../node_modules/@types/react-native/batchedbridge.d.ts",
+        "../../node_modules/@types/react-native/devtools.d.ts",
+        "../../node_modules/@types/react-native/globals.d.ts",
+        "../../node_modules/@types/react-native/launchscreen.d.ts",
+        "../../node_modules/@types/react-native/legacy-properties.d.ts",
+        "../../node_modules/@types/react/index.d.ts"
+      ],
+      "../../node_modules/@types/react-native/legacy-properties.d.ts": [
+        "../../node_modules/@types/react-native/index.d.ts"
+      ],
+      "../../node_modules/@types/react/index.d.ts": [
+        "../../node_modules/@types/prop-types/index.d.ts",
+        "../../node_modules/@types/react/global.d.ts",
+        "../../node_modules/@types/scheduler/tracing.d.ts",
+        "../../node_modules/csstype/index.d.ts"
+      ]
+    },
+    "semanticDiagnosticsPerFile": [
+      "./counterinput.d.ts",
+      "./counterinput.js",
+      "./counterinput.style.d.ts",
+      "./counterinput.style.js",
+      "../../lib/counterinput.style.ts",
+      "../../lib/counterinput.tsx",
+      "../../node_modules/@freakycoder/react-native-bounceable/build/dist/rnbounceable.d.ts",
+      "../../node_modules/@types/eslint-visitor-keys/index.d.ts",
+      "../../node_modules/@types/json-schema/index.d.ts",
+      "../../node_modules/@types/parse-json/index.d.ts",
+      "../../node_modules/@types/prop-types/index.d.ts",
+      "../../node_modules/@types/react-native/batchedbridge.d.ts",
+      "../../node_modules/@types/react-native/devtools.d.ts",
+      "../../node_modules/@types/react-native/globals.d.ts",
+      "../../node_modules/@types/react-native/index.d.ts",
+      "../../node_modules/@types/react-native/launchscreen.d.ts",
+      "../../node_modules/@types/react-native/legacy-properties.d.ts",
+      "../../node_modules/@types/react/global.d.ts",
+      "../../node_modules/@types/react/index.d.ts",
+      "../../node_modules/@types/scheduler/index.d.ts",
+      "../../node_modules/@types/scheduler/tracing.d.ts",
+      "../../node_modules/csstype/index.d.ts",
+      "../../node_modules/tslib/tslib.d.ts",
+      "../../node_modules/typescript/lib/lib.es2015.collection.d.ts",
+      "../../node_modules/typescript/lib/lib.es2015.core.d.ts",
+      "../../node_modules/typescript/lib/lib.es2015.d.ts",
+      "../../node_modules/typescript/lib/lib.es2015.generator.d.ts",
+      "../../node_modules/typescript/lib/lib.es2015.iterable.d.ts",
+      "../../node_modules/typescript/lib/lib.es2015.promise.d.ts",
+      "../../node_modules/typescript/lib/lib.es2015.proxy.d.ts",
+      "../../node_modules/typescript/lib/lib.es2015.reflect.d.ts",
+      "../../node_modules/typescript/lib/lib.es2015.symbol.d.ts",
+      "../../node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts",
+      "../../node_modules/typescript/lib/lib.es5.d.ts"
+    ]
+  },
+  "version": "3.9.10"
+}
